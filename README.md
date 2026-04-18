@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sandal Ağacı Oda Kokusu - Web Sitesi
 
-## Getting Started
+**KARAKAR HOME** tarafından geliştirilen, sandal ağacı çubuklu oda kokusu için özel tasarlanmış Next.js web sitesi.
 
-First, run the development server:
+## 🌟 Özellikler
+
+- ✅ **%100 SEO Uyumlu** - Meta taglar, schema markup, sitemap
+- ✅ **Mobil Responsive** - Tüm cihazlarda mükemmel görünüm
+- ✅ **Benzersiz Animasyonlar** - Framer Motion ile akıcı geçişler
+- ✅ **Hızlı Performans** - Next.js 16 ve Turbopack
+- ✅ **Modern Tasarım** - TailwindCSS ile özel renk paleti
+- ✅ **İç Linkleme** - Tüm sayfalar arası bağlantılar
+- ✅ **Schema Markup** - Google için yapılandırılmış veri
+
+## 🎨 Renk Paleti
+
+- **Primary**: `#8B6F47` (Sandal Ağacı Kahve)
+- **Secondary**: `#D4A574` (Altın Bej)
+- **Accent**: `#C19A6B` (Bronz)
+- **Background**: `#FFFBF5` (Krem Beyaz)
+- **Text**: `#2C1810` (Koyu Kahve)
+
+## 📄 Sayfalar
+
+1. **Ana Sayfa** (`/`) - Hero section, özellikler, kullanım alanları
+2. **Hakkımızda** (`/hakkimizda`) - Marka hikayesi, değerler, ekip
+3. **Ürün Detayı** (`/urun-detayi`) - Teknik özellikler, kullanım talimatları
+4. **İletişim** (`/iletisim`) - İletişim bilgileri, harita, sosyal medya
+
+## 🚀 Kurulum
 
 ```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Production build
+npm run build
+
+# Production sunucusunu başlat
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Önemli Linkler
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Sipariş**: https://www.karakarhome.com.tr/sandal-agaci-oda-kokusu/
+- **Oda Kokuları**: https://www.karakarhome.com.tr/oda-kokulari/
+- **WhatsApp**: https://wa.me/905451814040
+- **Canlı Destek**: https://tawk.to/karakar
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📱 Sosyal Medya
 
-## Learn More
+- Facebook: https://www.facebook.com/KARAKARHOME/
+- Instagram: https://www.instagram.com/karakarhome
+- Twitter/X: https://x.com/karakarhome
+- YouTube: https://www.youtube.com/@KARAKARHOME
+- Pinterest: https://tr.pinterest.com/karakarhome/
 
-To learn more about Next.js, take a look at the following resources:
+## 📍 İletişim
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**KARAKAR HOME**  
+Esenyalı Mah. Edebali Cad. No:13/A  
+34903 Pendik / İstanbul  
+Tel: +90 545 181 40 40  
+E-posta: info@beyazsabunodakokusu.com.tr
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Teknolojiler
 
-## Deploy on Vercel
+- Next.js 16
+- React 19
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- Lucide Icons
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 Lisans
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2024 KARAKAR HOME. Tüm hakları saklıdır.
